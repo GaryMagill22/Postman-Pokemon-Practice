@@ -1,0 +1,21 @@
+Request 1: https://pokeapi.co/api/v2/pokemon/19
+Results: Pokemon Name - Rattata
+
+Request 2: https://pokeapi.co/api/v2/pokemon/10
+Results: Pokemon Name - Caterpie
+
+
+Request 3: https://pokeapi.co/api/v2/pokemon/13
+Results:  Pokemon Name - Weedle
+
+
+Request 4: https://pokeapi.co/api/v2/pokemon/4
+Results:Pokemon Name - Charmander
+
+
+Request 5: https://pokeapi.co/api/v2/pokemon/3
+Results: Pokemon Name - Venusaur
+
+
+Request 6: https://pokeapi.co/api/v2/pokemon/17
+Results: Pokemon Name - Pidgeotto
